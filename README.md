@@ -63,9 +63,8 @@ Me interesa llevar una idea desde la investigación y el prototipo hasta una exp
 <tr>
 <td colspan="2" valign="top">
 <h3>03 · BOX-IT</h3>
-<p>Preparación del equipo para el área de Negocios del CAJATHON 2026: investigación, organización y arquitectura de referencia. El desafío oficial aún está pendiente.</p>
-<p><strong>Contribución técnica · Arquitectura · Backend e IA</strong></p>
-<p><a href="https://github.com/Wilder-reyes/BOX-IT-CAJATHON-2026">Conocer el equipo y la preparación →</a></p>
+<p>Equipo participante del CAJATHON 2026 en el área de Negocios.</p>
+<p><a href="https://github.com/Wilder-reyes/BOX-IT-CAJATHON-2026">Conocer BOX-IT →</a></p>
 </td>
 </tr>
 </table>
