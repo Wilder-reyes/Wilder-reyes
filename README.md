@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Wilder-reyes/Wilder-reyes/main/assets/header.svg" width="100%" alt="Wilder Reyes · Ingeniero mecatrónico · Inteligencia artificial, visión artificial, automatización y software" />
+<img src="https://raw.githubusercontent.com/Wilder-reyes/Wilder-reyes/main/assets/header.svg" width="100%" alt="Wilder Reyes · Ingeniero mecatrónico · Soluciones tecnológicas para empresas" />
 
-### De los datos y la percepción a soluciones útiles.
+### Soluciones tecnológicas para impulsar empresas.
 
 <a href="https://www.linkedin.com/in/wilder-reyes/"><img src="https://img.shields.io/badge/LinkedIn-Conectemos-0A66C2?style=for-the-badge" alt="LinkedIn de Wilder Reyes" /></a>
 <a href="https://chakrax.vercel.app/"><img src="https://img.shields.io/badge/CHACKRA_X-Ver_demo-0284c7?style=for-the-badge" alt="Ver CHACKRA X" /></a>
@@ -11,14 +11,15 @@
 
 ## Sobre mí
 
-Soy **ingeniero mecatrónico por la Universidad Tecnológica del Perú (UTP)**. Mi trabajo se enfoca en inteligencia artificial, visión artificial, automatización y desarrollo de software, conectando análisis de datos, modelos y aplicaciones para resolver problemas concretos.
+Soy **ingeniero mecatrónico por la Universidad Tecnológica del Perú (UTP)**. Desarrollo **soluciones tecnológicas para empresas**, combinando software, automatización, análisis de datos e inteligencia artificial para resolver necesidades del negocio.
 
-Desarrollo soluciones de **comercio electrónico** que integran búsqueda de productos, procesos de compra y automatización, con foco en la conversión y la eficiencia operativa.
+Transformo necesidades operativas en aplicaciones e integraciones a medida, con foco en la eficiencia, la experiencia del usuario y resultados que puedan medirse. Mi experiencia incluye soluciones de comercio electrónico para búsqueda de productos, procesos de compra y gestión de pedidos.
 
 Me interesa llevar una idea desde la investigación y el prototipo hasta una experiencia que las personas puedan utilizar y entender.
 
-- **IA y visión artificial:** detección de objetos, clasificación de imágenes y experimentación con aprendizaje automático.
-- **Software y automatización:** APIs, aplicaciones web e integración de procesos.
+- **Soluciones empresariales:** aplicaciones web, APIs e integración de sistemas.
+- **Automatización:** digitalización de tareas y mejora de procesos operativos.
+- **Inteligencia artificial:** aprendizaje automático y visión artificial como herramientas según el problema.
 - **Datos para decidir:** análisis, visualización e información satelital aplicada.
 - **Idiomas:** español e inglés avanzado.
 
@@ -75,7 +76,7 @@ Me interesa llevar una idea desde la investigación y el prototipo hasta una exp
 
 **Entender el problema → construir un prototipo → evaluar con evidencia → mejorar la experiencia.**
 
-Combino la perspectiva de la mecatrónica con el desarrollo de software y el análisis de datos. Me interesan especialmente las aplicaciones de IA y automatización con utilidad práctica.
+Combino la perspectiva de la mecatrónica con el desarrollo de software y el análisis de datos. Elijo las herramientas según las necesidades de cada empresa y evalúo su utilidad con indicadores concretos.
 
 ---
 
@@ -83,7 +84,7 @@ Combino la perspectiva de la mecatrónica con el desarrollo de software y el an�
 
 ### Conectemos
 
-Para conversar sobre ingeniería, visión artificial, automatización o desarrollo de software.
+Para conversar sobre soluciones tecnológicas, automatización y desarrollo de software para tu empresa.
 
 [LinkedIn](https://www.linkedin.com/in/wilder-reyes/) · [Proyectos en GitHub](https://github.com/Wilder-reyes?tab=repositories)
 
