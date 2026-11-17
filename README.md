@@ -5,7 +5,6 @@
 ### De los datos y la percepción a soluciones útiles.
 
 <a href="https://www.linkedin.com/in/wilder-reyes/"><img src="https://img.shields.io/badge/LinkedIn-Conectemos-0A66C2?style=for-the-badge" alt="LinkedIn de Wilder Reyes" /></a>
-<a href="https://kamiread.com/"><img src="https://img.shields.io/badge/Kamiread-Proyecto_comercial-14b8a6?style=for-the-badge" alt="Visitar Kamiread" /></a>
 <a href="https://chakrax.vercel.app/"><img src="https://img.shields.io/badge/CHACKRA_X-Ver_demo-0284c7?style=for-the-badge" alt="Ver CHACKRA X" /></a>
 
 </div>
@@ -13,6 +12,8 @@
 ## Sobre mí
 
 Soy **ingeniero mecatrónico por la Universidad Tecnológica del Perú (UTP)**. Mi trabajo se enfoca en inteligencia artificial, visión artificial, automatización y desarrollo de software, conectando análisis de datos, modelos y aplicaciones para resolver problemas concretos.
+
+Soy desarrollador de **Kamiread**.
 
 Me interesa llevar una idea desde la investigación y el prototipo hasta una experiencia que las personas puedan utilizar y entender.
 
@@ -60,14 +61,8 @@ Me interesa llevar una idea desde la investigación y el prototipo hasta una exp
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-<h3>03 · TERRA360-AI</h3>
-<p>Proyecto de apoyo a decisiones de rotación de cultivos con observaciones de la Tierra de NASA, análisis ambiental y un modelo histórico HLS documentado para una parcela de estudio.</p>
-<p><strong>Python · FastAPI · NASA POWER / HLS</strong></p>
-<p><a href="https://github.com/Wilder-reyes/TERRA360-AI">Explorar proyecto →</a></p>
-</td>
-<td width="50%" valign="top">
-<h3>04 · BOX-IT</h3>
+<td colspan="2" valign="top">
+<h3>03 · BOX-IT</h3>
 <p>Preparación del equipo para el área de Negocios del CAJATHON 2026: investigación, organización y arquitectura de referencia. El desafío oficial aún está pendiente.</p>
 <p><strong>Contribución técnica · Arquitectura · Backend e IA</strong></p>
 <p><a href="https://github.com/Wilder-reyes/BOX-IT-CAJATHON-2026">Conocer el equipo y la preparación →</a></p>
@@ -91,7 +86,7 @@ Combino la perspectiva de la mecatrónica con el desarrollo de software y el an�
 
 Para conversar sobre ingeniería, visión artificial, automatización o desarrollo de software.
 
-[LinkedIn](https://www.linkedin.com/in/wilder-reyes/) · [Proyectos en GitHub](https://github.com/Wilder-reyes?tab=repositories) · [Kamiread](https://kamiread.com/)
+[LinkedIn](https://www.linkedin.com/in/wilder-reyes/) · [Proyectos en GitHub](https://github.com/Wilder-reyes?tab=repositories)
 
 <sub>Wilder Reyes · Ingeniería, datos y tecnología con propósito.</sub>
 
