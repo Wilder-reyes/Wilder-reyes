@@ -13,7 +13,7 @@
 
 Soy **ingeniero mecatrónico por la Universidad Tecnológica del Perú (UTP)**. Mi trabajo se enfoca en inteligencia artificial, visión artificial, automatización y desarrollo de software, conectando análisis de datos, modelos y aplicaciones para resolver problemas concretos.
 
-Soy desarrollador de **Kamiread**.
+Desarrollo soluciones de **comercio electrónico** que integran búsqueda de productos, procesos de compra y automatización, con foco en la conversión y la eficiencia operativa.
 
 Me interesa llevar una idea desde la investigación y el prototipo hasta una experiencia que las personas puedan utilizar y entender.
 
